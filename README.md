@@ -1,4 +1,4 @@
-### Hi there 👋   ![](https://komarev.com/ghpvc/?username=pritam7s&style=plastic&label=Total+VIEWS)
+### Hi there 👋   ![](https://komarev.com/ghpvc/?username=pritam7s&style=plastic)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pritam7s&theme=dark&background=000000)](https://git.io/streak-stats)
 
