@@ -1,4 +1,5 @@
-### Hi there 👋   ![Visitor Count](https://profile-counter.glitch.me/{pritam7s}/count.svg)
+### Hi there 👋   
+![image title](https://rushter.com/counter.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pritam7s&theme=dark&background=000000)](https://git.io/streak-stats)
 
