@@ -1,4 +1,5 @@
-### 👋 Hi there, Pritam here (Just a nerd/geek exploring and experimenting new things)... hope to see you soon again..
+### 👋 Hi there, Pritam here (Just a nerd/geek exploring and experimenting new things)... 
+Hope to see you soon again..
 
 ![](https://komarev.com/ghpvc/?username=pritam7s&label=Total+Profile+Visits&style=plastic&color=blueviolet)
 
